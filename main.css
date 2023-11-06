@@ -115,7 +115,6 @@
 
 .keys .key.operator span {
     color: var(--orange);
-    background-color: #EEE;
 }
 
 .keys .key.action span {
